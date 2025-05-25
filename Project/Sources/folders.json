@@ -1,0 +1,8 @@
+{
+	"ProviderInfo": {
+		"groups": ["getProviderInfo"]
+	},
+	"UnitTests": {
+		"groups": ["ut_testProviderInfo"]
+	}
+}

@@ -1,0 +1,24 @@
+{
+  "name": "provider-info",
+  "version": "1.0.0",
+  "description": "Provider information script for getting API provider configurations",
+  "main": "provider_info.js",
+  "scripts": {
+    "start": "node provider_info.js",
+    "info": "node provider_info.js",
+    "help": "node provider_info.js --help"
+  },
+  "keywords": [
+    "api",
+    "provider",
+    "configuration",
+    "openai",
+    "anthropic",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
